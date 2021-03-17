@@ -29,3 +29,5 @@ git clone --recursive -j8 https://github.com/jerrykuku/openwrt-package.git packa
 #git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 #git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
 git clone https://github.com/yangsongli/luci-theme-atmaterial.git package/luci-theme-atmaterial
+git clone https://github.com/mchome/luci-app-dogcom.git package/luci-app-dogcom
+git clone https://github.com/mchome/openwrt-dogcom.git package/openwrt-dogcom
